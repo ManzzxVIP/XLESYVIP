@@ -1,9 +1,9 @@
 // config.js
 const XlesySet = {
-    owner: ['6283877636168'],
-    packname: 'Xlesy',
-    author: 'Gxyenn',
-    botname: 'XlesyBot',
+    owner: ['6283879090684'],
+    packname: 'XmanzxD',
+    author: 'ManzzxD',
+    botname: 'ManzzxBoTz',
     listprefix: ['.'],
     listv: ['❀','✿','⚘','々'],
     number_bot: "", // Kalo pake panel bisa masukin nomor di sini, jika belum ambil session. Format: '628xx'
